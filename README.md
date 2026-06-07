@@ -1,10 +1,8 @@
 # Projekat - Digitalna Pismenost
 
-Glavne stranice projekta su uspješno hostovane na produkciji. Zbog ugašenog lokalnog servera, navigacioni meni unutar samog sajta je onemogućen, pa Vas molimo da stranicama projekta pristupate direktno preko ovih linkova:
+Kompletan izvorni kod, stranice i prateći fajlovi projekta su uspješno kreirani i nalaze se u ovom repozitorijumu. 
 
-### 🔗 Direktni linkovi za pregled projekta:
-* 🏠 [POČETNA STRANICA](https://voluble-fairy-723781.netlify.app/index.html)
-* 📝 [INTERAKTIVNA ANKETA](https://voluble-fairy-723781.netlify.app/anketa.html)
-* 📊 [STATISTIČKI GRAFIKONI](https://voluble-fairy-723781.netlify.app/grafikoni.html)
-* 📈 [ANALIZA PODATAKA](https://voluble-fairy-723781.netlify.app/analiza-podataka.html)
-* 📚 [ZAKLJUČAK I IZVORI](https://voluble-fairy-723781.netlify.app/zaključak-i-izvori.html)
+### ⚠️ Napomena za pregled:
+Sajt je lokalno razvijan u WordPress okruženju (LocalWP). Zbog specifičnosti statičkog eksporta, apsolutnih putanja i lokalne baze podataka, navigacija i stilovi ispravno rade isključivo u lokalnom okruženju sa pokrenutim serverom. 
+
+Svi HTML fajlovi i resursi su uredno priloženi u kodu za ručni pregled i ocjenjivanje.
