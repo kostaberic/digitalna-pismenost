@@ -1,11 +1,10 @@
 # Projekat - Digitalna Pismenost
 
-U okviru ovog projekta kreiran je WordPress sajt sa pratećom anketom i analizom podataka na temu digitalne pismenosti. 
+Glavne stranice projekta su uspješno hostovane na produkciji. Zbog ugašenog lokalnog servera, navigacioni meni unutar samog sajta je onemogućen, pa Vas molimo da stranicama projekta pristupate direktno preko ovih linkova:
 
-Kompletan sajt je uspješno podignut na produkciju i u potpunosti je funkcionalan (dizajn, stilovi, sve stranice i navigacija).
-
-### 🔗 Link za pristup sajtu:
-👉 **[KLIKNITE OVDJE ZA PRISTUP SAJTU](https://voluble-fairy-723781.netlify.app)**
-
----
-*Napomena: Svi statički resursi, HTML stranice i pripadajući stilovi su optimizovani i hostovani putem Netlify platforme radi stabilnosti i stalne dostupnosti.*
+### 🔗 Direktni linkovi za pregled projekta:
+* 🏠 [POČETNA STRANICA](https://voluble-fairy-723781.netlify.app/index.html)
+* 📝 [INTERAKTIVNA ANKETA](https://voluble-fairy-723781.netlify.app/anketa.html)
+* 📊 [STATISTIČKI GRAFIKONI](https://voluble-fairy-723781.netlify.app/grafikoni.html)
+* 📈 [ANALIZA PODATAKA](https://voluble-fairy-723781.netlify.app/analiza-podataka.html)
+* 📚 [ZAKLJUČAK I IZVORI](https://voluble-fairy-723781.netlify.app/zakljucak-i-izvori.html)
