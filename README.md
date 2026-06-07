@@ -7,4 +7,4 @@ Glavne stranice projekta su uspješno hostovane na produkciji. Zbog ugašenog lo
 * 📝 [INTERAKTIVNA ANKETA](https://voluble-fairy-723781.netlify.app/anketa.html)
 * 📊 [STATISTIČKI GRAFIKONI](https://voluble-fairy-723781.netlify.app/grafikoni.html)
 * 📈 [ANALIZA PODATAKA](https://voluble-fairy-723781.netlify.app/analiza-podataka.html)
-* 📚 [ZAKLJUČAK I IZVORI](https://voluble-fairy-723781.netlify.app/zakljucak-i-izvori.html)
+* 📚 [ZAKLJUČAK I IZVORI](https://voluble-fairy-723781.netlify.app/zaključak-i-izvori.html)
